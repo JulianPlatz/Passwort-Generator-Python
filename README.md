@@ -1,2 +1,2 @@
-# Passwort-Generator
+# Passwort-Generator (Python)
 Choose your passwort!
